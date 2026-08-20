@@ -1,0 +1,45 @@
+# Node dependencies & build artifacts
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+frontend/.vite/
+
+# Python & Virtual Environments
+__pycache__/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+.env
+backend/.env
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Databases & Uploads
+backend/data/*.db
+backend/data/*.sqlite
+backend/data/chroma_db/
+backend/uploads/*
+!backend/uploads/.gitkeep
+*.db
+*.sqlite3
+
+# OS and IDE Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AI Assistant Cache
+.gemini/

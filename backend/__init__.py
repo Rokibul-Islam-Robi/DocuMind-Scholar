@@ -1,0 +1,3 @@
+"""
+DocuMind Scholar Backend Package
+"""
