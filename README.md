@@ -223,8 +223,13 @@ DocuMind Scholar/
 
 ## 🔒 Offline Fallback & Privacy
 
-- **Offline Academic Fallback**: DocuMind Scholar includes an offline heuristic engine capable of parsing, decomposing formulas, synthesizing comparison matrices, and generating flashcard decks without requiring any API keys or external internet connectivity.
-- **Local Persistence**: All document texts, coordinate bounding boxes, and chat histories are stored locally on your machine via **SQLite** and **ChromaDB**.
+---
+
+## 📄 License
+
+This project is open-sourced under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 **Rokibul Islam Robi**. All rights reserved.
 
 ---
 
